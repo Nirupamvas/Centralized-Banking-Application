@@ -1,4 +1,4 @@
-# Decentralized-Banking-Application
+# Centralized-Banking-Application
 This projects mainly aims to make a baking software in C language.It has a features like
 1) Bank Employess creating new accounts to Customers
 2) Current account or Saveings accounts
